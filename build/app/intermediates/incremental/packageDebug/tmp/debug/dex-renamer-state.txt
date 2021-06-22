@@ -1,4 +1,0 @@
-#Tue Jun 22 11:57:12 IST 2021
-base.0=/Users/mac-obs-30/Desktop/InterviewTask/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
